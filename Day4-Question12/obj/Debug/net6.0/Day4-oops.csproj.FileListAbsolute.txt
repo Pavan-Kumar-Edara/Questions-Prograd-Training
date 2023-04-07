@@ -1,0 +1,15 @@
+C:\Users\pavan\source\repos\Day4-oops\Day4-oops\bin\Debug\net6.0\Day4-oops.exe
+C:\Users\pavan\source\repos\Day4-oops\Day4-oops\bin\Debug\net6.0\Day4-oops.deps.json
+C:\Users\pavan\source\repos\Day4-oops\Day4-oops\bin\Debug\net6.0\Day4-oops.runtimeconfig.json
+C:\Users\pavan\source\repos\Day4-oops\Day4-oops\bin\Debug\net6.0\Day4-oops.dll
+C:\Users\pavan\source\repos\Day4-oops\Day4-oops\bin\Debug\net6.0\Day4-oops.pdb
+C:\Users\pavan\source\repos\Day4-oops\Day4-oops\obj\Debug\net6.0\Day4-oops.csproj.AssemblyReference.cache
+C:\Users\pavan\source\repos\Day4-oops\Day4-oops\obj\Debug\net6.0\Day4-oops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavan\source\repos\Day4-oops\Day4-oops\obj\Debug\net6.0\Day4-oops.AssemblyInfoInputs.cache
+C:\Users\pavan\source\repos\Day4-oops\Day4-oops\obj\Debug\net6.0\Day4-oops.AssemblyInfo.cs
+C:\Users\pavan\source\repos\Day4-oops\Day4-oops\obj\Debug\net6.0\Day4-oops.csproj.CoreCompileInputs.cache
+C:\Users\pavan\source\repos\Day4-oops\Day4-oops\obj\Debug\net6.0\Day4-oops.dll
+C:\Users\pavan\source\repos\Day4-oops\Day4-oops\obj\Debug\net6.0\refint\Day4-oops.dll
+C:\Users\pavan\source\repos\Day4-oops\Day4-oops\obj\Debug\net6.0\Day4-oops.pdb
+C:\Users\pavan\source\repos\Day4-oops\Day4-oops\obj\Debug\net6.0\Day4-oops.genruntimeconfig.cache
+C:\Users\pavan\source\repos\Day4-oops\Day4-oops\obj\Debug\net6.0\ref\Day4-oops.dll
