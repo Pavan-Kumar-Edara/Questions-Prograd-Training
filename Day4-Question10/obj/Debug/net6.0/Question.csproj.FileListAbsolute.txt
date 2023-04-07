@@ -1,0 +1,15 @@
+C:\Users\pavan\source\repos\Day4-oops\Question\bin\Debug\net6.0\Question.exe
+C:\Users\pavan\source\repos\Day4-oops\Question\bin\Debug\net6.0\Question.deps.json
+C:\Users\pavan\source\repos\Day4-oops\Question\bin\Debug\net6.0\Question.runtimeconfig.json
+C:\Users\pavan\source\repos\Day4-oops\Question\bin\Debug\net6.0\Question.dll
+C:\Users\pavan\source\repos\Day4-oops\Question\bin\Debug\net6.0\Question.pdb
+C:\Users\pavan\source\repos\Day4-oops\Question\obj\Debug\net6.0\Question.csproj.AssemblyReference.cache
+C:\Users\pavan\source\repos\Day4-oops\Question\obj\Debug\net6.0\Question.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavan\source\repos\Day4-oops\Question\obj\Debug\net6.0\Question.AssemblyInfoInputs.cache
+C:\Users\pavan\source\repos\Day4-oops\Question\obj\Debug\net6.0\Question.AssemblyInfo.cs
+C:\Users\pavan\source\repos\Day4-oops\Question\obj\Debug\net6.0\Question.csproj.CoreCompileInputs.cache
+C:\Users\pavan\source\repos\Day4-oops\Question\obj\Debug\net6.0\Question.dll
+C:\Users\pavan\source\repos\Day4-oops\Question\obj\Debug\net6.0\refint\Question.dll
+C:\Users\pavan\source\repos\Day4-oops\Question\obj\Debug\net6.0\Question.pdb
+C:\Users\pavan\source\repos\Day4-oops\Question\obj\Debug\net6.0\Question.genruntimeconfig.cache
+C:\Users\pavan\source\repos\Day4-oops\Question\obj\Debug\net6.0\ref\Question.dll
