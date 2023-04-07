@@ -1,0 +1,15 @@
+C:\Users\pavan\source\repos\Day2\loops question\bin\Debug\net6.0\loops question.exe
+C:\Users\pavan\source\repos\Day2\loops question\bin\Debug\net6.0\loops question.deps.json
+C:\Users\pavan\source\repos\Day2\loops question\bin\Debug\net6.0\loops question.runtimeconfig.json
+C:\Users\pavan\source\repos\Day2\loops question\bin\Debug\net6.0\loops question.dll
+C:\Users\pavan\source\repos\Day2\loops question\bin\Debug\net6.0\loops question.pdb
+C:\Users\pavan\source\repos\Day2\loops question\obj\Debug\net6.0\loops question.csproj.AssemblyReference.cache
+C:\Users\pavan\source\repos\Day2\loops question\obj\Debug\net6.0\loops question.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavan\source\repos\Day2\loops question\obj\Debug\net6.0\loops question.AssemblyInfoInputs.cache
+C:\Users\pavan\source\repos\Day2\loops question\obj\Debug\net6.0\loops question.AssemblyInfo.cs
+C:\Users\pavan\source\repos\Day2\loops question\obj\Debug\net6.0\loops question.csproj.CoreCompileInputs.cache
+C:\Users\pavan\source\repos\Day2\loops question\obj\Debug\net6.0\loops question.dll
+C:\Users\pavan\source\repos\Day2\loops question\obj\Debug\net6.0\refint\loops question.dll
+C:\Users\pavan\source\repos\Day2\loops question\obj\Debug\net6.0\loops question.pdb
+C:\Users\pavan\source\repos\Day2\loops question\obj\Debug\net6.0\loops question.genruntimeconfig.cache
+C:\Users\pavan\source\repos\Day2\loops question\obj\Debug\net6.0\ref\loops question.dll
