@@ -1,0 +1,15 @@
+C:\Users\pavan\source\repos\week1-weekend work\week1-weekend work\bin\Debug\net6.0\Car Implementation(weekend work).exe
+C:\Users\pavan\source\repos\week1-weekend work\week1-weekend work\bin\Debug\net6.0\Car Implementation(weekend work).deps.json
+C:\Users\pavan\source\repos\week1-weekend work\week1-weekend work\bin\Debug\net6.0\Car Implementation(weekend work).runtimeconfig.json
+C:\Users\pavan\source\repos\week1-weekend work\week1-weekend work\bin\Debug\net6.0\Car Implementation(weekend work).dll
+C:\Users\pavan\source\repos\week1-weekend work\week1-weekend work\bin\Debug\net6.0\Car Implementation(weekend work).pdb
+C:\Users\pavan\source\repos\week1-weekend work\week1-weekend work\obj\Debug\net6.0\Car Implementation(weekend work).csproj.AssemblyReference.cache
+C:\Users\pavan\source\repos\week1-weekend work\week1-weekend work\obj\Debug\net6.0\Car Implementation(weekend work).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavan\source\repos\week1-weekend work\week1-weekend work\obj\Debug\net6.0\Car Implementation(weekend work).AssemblyInfoInputs.cache
+C:\Users\pavan\source\repos\week1-weekend work\week1-weekend work\obj\Debug\net6.0\Car Implementation(weekend work).AssemblyInfo.cs
+C:\Users\pavan\source\repos\week1-weekend work\week1-weekend work\obj\Debug\net6.0\Car Implementation(weekend work).csproj.CoreCompileInputs.cache
+C:\Users\pavan\source\repos\week1-weekend work\week1-weekend work\obj\Debug\net6.0\Car Implementation(weekend work).dll
+C:\Users\pavan\source\repos\week1-weekend work\week1-weekend work\obj\Debug\net6.0\refint\Car Implementation(weekend work).dll
+C:\Users\pavan\source\repos\week1-weekend work\week1-weekend work\obj\Debug\net6.0\Car Implementation(weekend work).pdb
+C:\Users\pavan\source\repos\week1-weekend work\week1-weekend work\obj\Debug\net6.0\Car Implementation(weekend work).genruntimeconfig.cache
+C:\Users\pavan\source\repos\week1-weekend work\week1-weekend work\obj\Debug\net6.0\ref\Car Implementation(weekend work).dll
