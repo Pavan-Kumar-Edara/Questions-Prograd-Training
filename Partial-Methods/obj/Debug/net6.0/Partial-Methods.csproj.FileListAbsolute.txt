@@ -1,0 +1,15 @@
+C:\Users\pavan\source\repos\Week2-Day8\Partial-Methods\bin\Debug\net6.0\Partial-Methods.exe
+C:\Users\pavan\source\repos\Week2-Day8\Partial-Methods\bin\Debug\net6.0\Partial-Methods.deps.json
+C:\Users\pavan\source\repos\Week2-Day8\Partial-Methods\bin\Debug\net6.0\Partial-Methods.runtimeconfig.json
+C:\Users\pavan\source\repos\Week2-Day8\Partial-Methods\bin\Debug\net6.0\Partial-Methods.dll
+C:\Users\pavan\source\repos\Week2-Day8\Partial-Methods\bin\Debug\net6.0\Partial-Methods.pdb
+C:\Users\pavan\source\repos\Week2-Day8\Partial-Methods\obj\Debug\net6.0\Partial-Methods.csproj.AssemblyReference.cache
+C:\Users\pavan\source\repos\Week2-Day8\Partial-Methods\obj\Debug\net6.0\Partial-Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavan\source\repos\Week2-Day8\Partial-Methods\obj\Debug\net6.0\Partial-Methods.AssemblyInfoInputs.cache
+C:\Users\pavan\source\repos\Week2-Day8\Partial-Methods\obj\Debug\net6.0\Partial-Methods.AssemblyInfo.cs
+C:\Users\pavan\source\repos\Week2-Day8\Partial-Methods\obj\Debug\net6.0\Partial-Methods.csproj.CoreCompileInputs.cache
+C:\Users\pavan\source\repos\Week2-Day8\Partial-Methods\obj\Debug\net6.0\Partial-Methods.dll
+C:\Users\pavan\source\repos\Week2-Day8\Partial-Methods\obj\Debug\net6.0\refint\Partial-Methods.dll
+C:\Users\pavan\source\repos\Week2-Day8\Partial-Methods\obj\Debug\net6.0\Partial-Methods.pdb
+C:\Users\pavan\source\repos\Week2-Day8\Partial-Methods\obj\Debug\net6.0\Partial-Methods.genruntimeconfig.cache
+C:\Users\pavan\source\repos\Week2-Day8\Partial-Methods\obj\Debug\net6.0\ref\Partial-Methods.dll
