@@ -1,0 +1,15 @@
+C:\Users\pavan\source\repos\Week2-Day8\Genereic delegates\bin\Debug\net6.0\Genereic delegates.exe
+C:\Users\pavan\source\repos\Week2-Day8\Genereic delegates\bin\Debug\net6.0\Genereic delegates.deps.json
+C:\Users\pavan\source\repos\Week2-Day8\Genereic delegates\bin\Debug\net6.0\Genereic delegates.runtimeconfig.json
+C:\Users\pavan\source\repos\Week2-Day8\Genereic delegates\bin\Debug\net6.0\Genereic delegates.dll
+C:\Users\pavan\source\repos\Week2-Day8\Genereic delegates\bin\Debug\net6.0\Genereic delegates.pdb
+C:\Users\pavan\source\repos\Week2-Day8\Genereic delegates\obj\Debug\net6.0\Genereic delegates.csproj.AssemblyReference.cache
+C:\Users\pavan\source\repos\Week2-Day8\Genereic delegates\obj\Debug\net6.0\Genereic delegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavan\source\repos\Week2-Day8\Genereic delegates\obj\Debug\net6.0\Genereic delegates.AssemblyInfoInputs.cache
+C:\Users\pavan\source\repos\Week2-Day8\Genereic delegates\obj\Debug\net6.0\Genereic delegates.AssemblyInfo.cs
+C:\Users\pavan\source\repos\Week2-Day8\Genereic delegates\obj\Debug\net6.0\Genereic delegates.csproj.CoreCompileInputs.cache
+C:\Users\pavan\source\repos\Week2-Day8\Genereic delegates\obj\Debug\net6.0\Genereic delegates.dll
+C:\Users\pavan\source\repos\Week2-Day8\Genereic delegates\obj\Debug\net6.0\refint\Genereic delegates.dll
+C:\Users\pavan\source\repos\Week2-Day8\Genereic delegates\obj\Debug\net6.0\Genereic delegates.pdb
+C:\Users\pavan\source\repos\Week2-Day8\Genereic delegates\obj\Debug\net6.0\Genereic delegates.genruntimeconfig.cache
+C:\Users\pavan\source\repos\Week2-Day8\Genereic delegates\obj\Debug\net6.0\ref\Genereic delegates.dll
