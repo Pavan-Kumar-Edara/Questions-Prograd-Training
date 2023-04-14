@@ -1,0 +1,15 @@
+C:\Users\pavan\source\repos\week2-Day7\Anangrams\bin\Debug\net6.0\Anangrams.exe
+C:\Users\pavan\source\repos\week2-Day7\Anangrams\bin\Debug\net6.0\Anangrams.deps.json
+C:\Users\pavan\source\repos\week2-Day7\Anangrams\bin\Debug\net6.0\Anangrams.runtimeconfig.json
+C:\Users\pavan\source\repos\week2-Day7\Anangrams\bin\Debug\net6.0\Anangrams.dll
+C:\Users\pavan\source\repos\week2-Day7\Anangrams\bin\Debug\net6.0\Anangrams.pdb
+C:\Users\pavan\source\repos\week2-Day7\Anangrams\obj\Debug\net6.0\Anangrams.csproj.AssemblyReference.cache
+C:\Users\pavan\source\repos\week2-Day7\Anangrams\obj\Debug\net6.0\Anangrams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavan\source\repos\week2-Day7\Anangrams\obj\Debug\net6.0\Anangrams.AssemblyInfoInputs.cache
+C:\Users\pavan\source\repos\week2-Day7\Anangrams\obj\Debug\net6.0\Anangrams.AssemblyInfo.cs
+C:\Users\pavan\source\repos\week2-Day7\Anangrams\obj\Debug\net6.0\Anangrams.csproj.CoreCompileInputs.cache
+C:\Users\pavan\source\repos\week2-Day7\Anangrams\obj\Debug\net6.0\Anangrams.dll
+C:\Users\pavan\source\repos\week2-Day7\Anangrams\obj\Debug\net6.0\refint\Anangrams.dll
+C:\Users\pavan\source\repos\week2-Day7\Anangrams\obj\Debug\net6.0\Anangrams.pdb
+C:\Users\pavan\source\repos\week2-Day7\Anangrams\obj\Debug\net6.0\Anangrams.genruntimeconfig.cache
+C:\Users\pavan\source\repos\week2-Day7\Anangrams\obj\Debug\net6.0\ref\Anangrams.dll
