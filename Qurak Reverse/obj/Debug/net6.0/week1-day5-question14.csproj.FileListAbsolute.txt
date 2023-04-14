@@ -1,0 +1,15 @@
+C:\Users\pavan\source\repos\week1-day5\week1-day5\bin\Debug\net6.0\week1-day5-question14.exe
+C:\Users\pavan\source\repos\week1-day5\week1-day5\bin\Debug\net6.0\week1-day5-question14.deps.json
+C:\Users\pavan\source\repos\week1-day5\week1-day5\bin\Debug\net6.0\week1-day5-question14.runtimeconfig.json
+C:\Users\pavan\source\repos\week1-day5\week1-day5\bin\Debug\net6.0\week1-day5-question14.dll
+C:\Users\pavan\source\repos\week1-day5\week1-day5\bin\Debug\net6.0\week1-day5-question14.pdb
+C:\Users\pavan\source\repos\week1-day5\week1-day5\obj\Debug\net6.0\week1-day5-question14.csproj.AssemblyReference.cache
+C:\Users\pavan\source\repos\week1-day5\week1-day5\obj\Debug\net6.0\week1-day5-question14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavan\source\repos\week1-day5\week1-day5\obj\Debug\net6.0\week1-day5-question14.AssemblyInfoInputs.cache
+C:\Users\pavan\source\repos\week1-day5\week1-day5\obj\Debug\net6.0\week1-day5-question14.AssemblyInfo.cs
+C:\Users\pavan\source\repos\week1-day5\week1-day5\obj\Debug\net6.0\week1-day5-question14.csproj.CoreCompileInputs.cache
+C:\Users\pavan\source\repos\week1-day5\week1-day5\obj\Debug\net6.0\week1-day5-question14.dll
+C:\Users\pavan\source\repos\week1-day5\week1-day5\obj\Debug\net6.0\refint\week1-day5-question14.dll
+C:\Users\pavan\source\repos\week1-day5\week1-day5\obj\Debug\net6.0\week1-day5-question14.pdb
+C:\Users\pavan\source\repos\week1-day5\week1-day5\obj\Debug\net6.0\week1-day5-question14.genruntimeconfig.cache
+C:\Users\pavan\source\repos\week1-day5\week1-day5\obj\Debug\net6.0\ref\week1-day5-question14.dll
