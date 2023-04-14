@@ -1,0 +1,15 @@
+C:\Users\pavan\source\repos\week2-day6\Baseball Score\bin\Debug\net6.0\Baseball Score.exe
+C:\Users\pavan\source\repos\week2-day6\Baseball Score\bin\Debug\net6.0\Baseball Score.deps.json
+C:\Users\pavan\source\repos\week2-day6\Baseball Score\bin\Debug\net6.0\Baseball Score.runtimeconfig.json
+C:\Users\pavan\source\repos\week2-day6\Baseball Score\bin\Debug\net6.0\Baseball Score.dll
+C:\Users\pavan\source\repos\week2-day6\Baseball Score\bin\Debug\net6.0\Baseball Score.pdb
+C:\Users\pavan\source\repos\week2-day6\Baseball Score\obj\Debug\net6.0\Baseball Score.csproj.AssemblyReference.cache
+C:\Users\pavan\source\repos\week2-day6\Baseball Score\obj\Debug\net6.0\Baseball Score.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavan\source\repos\week2-day6\Baseball Score\obj\Debug\net6.0\Baseball Score.AssemblyInfoInputs.cache
+C:\Users\pavan\source\repos\week2-day6\Baseball Score\obj\Debug\net6.0\Baseball Score.AssemblyInfo.cs
+C:\Users\pavan\source\repos\week2-day6\Baseball Score\obj\Debug\net6.0\Baseball Score.csproj.CoreCompileInputs.cache
+C:\Users\pavan\source\repos\week2-day6\Baseball Score\obj\Debug\net6.0\Baseball Score.dll
+C:\Users\pavan\source\repos\week2-day6\Baseball Score\obj\Debug\net6.0\refint\Baseball Score.dll
+C:\Users\pavan\source\repos\week2-day6\Baseball Score\obj\Debug\net6.0\Baseball Score.pdb
+C:\Users\pavan\source\repos\week2-day6\Baseball Score\obj\Debug\net6.0\Baseball Score.genruntimeconfig.cache
+C:\Users\pavan\source\repos\week2-day6\Baseball Score\obj\Debug\net6.0\ref\Baseball Score.dll
