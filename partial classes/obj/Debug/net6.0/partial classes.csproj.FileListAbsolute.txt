@@ -1,0 +1,15 @@
+C:\Users\pavan\source\repos\Week2-Day8\partial classes\bin\Debug\net6.0\partial classes.exe
+C:\Users\pavan\source\repos\Week2-Day8\partial classes\bin\Debug\net6.0\partial classes.deps.json
+C:\Users\pavan\source\repos\Week2-Day8\partial classes\bin\Debug\net6.0\partial classes.runtimeconfig.json
+C:\Users\pavan\source\repos\Week2-Day8\partial classes\bin\Debug\net6.0\partial classes.dll
+C:\Users\pavan\source\repos\Week2-Day8\partial classes\bin\Debug\net6.0\partial classes.pdb
+C:\Users\pavan\source\repos\Week2-Day8\partial classes\obj\Debug\net6.0\partial classes.csproj.AssemblyReference.cache
+C:\Users\pavan\source\repos\Week2-Day8\partial classes\obj\Debug\net6.0\partial classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavan\source\repos\Week2-Day8\partial classes\obj\Debug\net6.0\partial classes.AssemblyInfoInputs.cache
+C:\Users\pavan\source\repos\Week2-Day8\partial classes\obj\Debug\net6.0\partial classes.AssemblyInfo.cs
+C:\Users\pavan\source\repos\Week2-Day8\partial classes\obj\Debug\net6.0\partial classes.csproj.CoreCompileInputs.cache
+C:\Users\pavan\source\repos\Week2-Day8\partial classes\obj\Debug\net6.0\partial classes.dll
+C:\Users\pavan\source\repos\Week2-Day8\partial classes\obj\Debug\net6.0\refint\partial classes.dll
+C:\Users\pavan\source\repos\Week2-Day8\partial classes\obj\Debug\net6.0\partial classes.pdb
+C:\Users\pavan\source\repos\Week2-Day8\partial classes\obj\Debug\net6.0\partial classes.genruntimeconfig.cache
+C:\Users\pavan\source\repos\Week2-Day8\partial classes\obj\Debug\net6.0\ref\partial classes.dll
