@@ -1,0 +1,15 @@
+C:\Users\pavan\source\repos\week2-day6\Array_Intervals\bin\Debug\net6.0\Array_Intervals.exe
+C:\Users\pavan\source\repos\week2-day6\Array_Intervals\bin\Debug\net6.0\Array_Intervals.deps.json
+C:\Users\pavan\source\repos\week2-day6\Array_Intervals\bin\Debug\net6.0\Array_Intervals.runtimeconfig.json
+C:\Users\pavan\source\repos\week2-day6\Array_Intervals\bin\Debug\net6.0\Array_Intervals.dll
+C:\Users\pavan\source\repos\week2-day6\Array_Intervals\bin\Debug\net6.0\Array_Intervals.pdb
+C:\Users\pavan\source\repos\week2-day6\Array_Intervals\obj\Debug\net6.0\Array_Intervals.csproj.AssemblyReference.cache
+C:\Users\pavan\source\repos\week2-day6\Array_Intervals\obj\Debug\net6.0\Array_Intervals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavan\source\repos\week2-day6\Array_Intervals\obj\Debug\net6.0\Array_Intervals.AssemblyInfoInputs.cache
+C:\Users\pavan\source\repos\week2-day6\Array_Intervals\obj\Debug\net6.0\Array_Intervals.AssemblyInfo.cs
+C:\Users\pavan\source\repos\week2-day6\Array_Intervals\obj\Debug\net6.0\Array_Intervals.csproj.CoreCompileInputs.cache
+C:\Users\pavan\source\repos\week2-day6\Array_Intervals\obj\Debug\net6.0\Array_Intervals.dll
+C:\Users\pavan\source\repos\week2-day6\Array_Intervals\obj\Debug\net6.0\refint\Array_Intervals.dll
+C:\Users\pavan\source\repos\week2-day6\Array_Intervals\obj\Debug\net6.0\Array_Intervals.pdb
+C:\Users\pavan\source\repos\week2-day6\Array_Intervals\obj\Debug\net6.0\Array_Intervals.genruntimeconfig.cache
+C:\Users\pavan\source\repos\week2-day6\Array_Intervals\obj\Debug\net6.0\ref\Array_Intervals.dll
