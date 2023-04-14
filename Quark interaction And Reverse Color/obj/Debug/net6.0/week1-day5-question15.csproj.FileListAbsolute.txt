@@ -1,5 +1,0 @@
-C:\Users\pavan\source\repos\week1-day5\week1-day5-question15\obj\Debug\net6.0\week1-day5-question15.csproj.AssemblyReference.cache
-C:\Users\pavan\source\repos\week1-day5\week1-day5-question15\obj\Debug\net6.0\week1-day5-question15.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\pavan\source\repos\week1-day5\week1-day5-question15\obj\Debug\net6.0\week1-day5-question15.AssemblyInfoInputs.cache
-C:\Users\pavan\source\repos\week1-day5\week1-day5-question15\obj\Debug\net6.0\week1-day5-question15.AssemblyInfo.cs
-C:\Users\pavan\source\repos\week1-day5\week1-day5-question15\obj\Debug\net6.0\week1-day5-question15.csproj.CoreCompileInputs.cache
