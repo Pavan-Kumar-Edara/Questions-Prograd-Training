@@ -1,0 +1,179 @@
+using Domain;
+
+namespace Spell_out_numbers_TDD
+{
+    public class NumberSpellerTests
+    {
+        
+        [Fact]
+        public void Test_For_One_Digit_Number()
+        {
+            Assert.Equal("Zero",NumberSpeller.SpellOutNumber(0));
+            //Assert.Equal("Five",NumberSpeller.SpellOutNumber(5));
+            //Assert.Equal("Nine",NumberSpeller.SpellOutNumber(9));
+
+        }
+        [Fact]
+        public void Test_For_Two_Digits_Till_Twenty()
+        {
+            Assert.Equal("Eleven", NumberSpeller.SpellOutNumber(11));
+            Assert.Equal("Fifteen", NumberSpeller.SpellOutNumber(15));
+        }
+
+
+        [Fact]
+        public void Test_For_Numbers_TwentyOne_To_Ninty_Nine() 
+        {
+            Assert.Equal("Twenty", NumberSpeller.SpellOutNumber(20));
+            Assert.Equal("Twenty-One", NumberSpeller.SpellOutNumber(21));
+            Assert.Equal("Ninety-Nine", NumberSpeller.SpellOutNumber(99));
+        }
+
+        [Fact]
+        public void Test_For_Numbers_Hundred_To_NineNinetyNine()
+        {
+            Assert.Equal("One Hundred", NumberSpeller.SpellOutNumber(100));
+            Assert.Equal("Five Hundred Fifty-Five", NumberSpeller.SpellOutNumber(555));
+            Assert.Equal("Three Hundred Three", NumberSpeller.SpellOutNumber(303));
+       
+        }
+
+        [Fact]
+        public void Test_For_Numbers_Thousand_To_NineNineNineNine()
+        {
+            Assert.Equal("One Thousand", NumberSpeller.SpellOutNumber(1000));
+            Assert.Equal("Three Thousand Four Hundred Five", NumberSpeller.SpellOutNumber(3405));
+        }
+
+        [Fact]
+        public void Test_For_Numbers_Not_In_Between_Zero_And_NineNineNineNine()
+        {
+            Assert.Throws<ArgumentOutOfRangeException>(() => NumberSpeller.SpellOutNumber(-1));
+        }
+    }
+}
+
+//Domain
+namespace Domain
+{
+    public class NumberSpeller
+    {
+        public static string SpellOutNumber(int number)
+        {
+            Dictionary<int, string> oneDigit = new Dictionary<int, string>();
+
+            oneDigit.Add(0, "Zero");
+            oneDigit.Add(1, "One");
+            oneDigit.Add(2, "Two");
+            oneDigit.Add(3, "Three");
+            oneDigit.Add(4, "Four");
+            oneDigit.Add(5, "Five");
+            oneDigit.Add(6, "Six");
+            oneDigit.Add(7, "Seven");
+            oneDigit.Add(8, "Eight");
+            oneDigit.Add(9, "Nine");
+
+            Dictionary<int, string> twoDigitTillTwenty = new Dictionary<int, string>();
+
+            twoDigitTillTwenty.Add(11, "Eleven");
+            twoDigitTillTwenty.Add(12, "Twelve");
+            twoDigitTillTwenty.Add(13, "Thirteen");
+            twoDigitTillTwenty.Add(14, "Fourteen");
+            twoDigitTillTwenty.Add(15, "Fifteen");
+            twoDigitTillTwenty.Add(16, "Sixteen");
+            twoDigitTillTwenty.Add(17, "Seventeen");
+            twoDigitTillTwenty.Add(18, "Eighteen");
+            twoDigitTillTwenty.Add(19, "Nineteen");
+
+            Dictionary<int, string> twoDigitTillNinetyNine = new Dictionary<int, string>();
+
+            twoDigitTillNinetyNine.Add(2, "Twenty");
+            twoDigitTillNinetyNine.Add(3, "Thirty");
+            twoDigitTillNinetyNine.Add(4, "Fourty");
+            twoDigitTillNinetyNine.Add(5, "Fifty");
+            twoDigitTillNinetyNine.Add(6, "Sixty");
+            twoDigitTillNinetyNine.Add(7, "Seventy");
+            twoDigitTillNinetyNine.Add(8, "Eighty");
+            twoDigitTillNinetyNine.Add(9, "Ninety");
+
+
+            if (number == 0)
+            {
+                return "Zero";
+            }
+
+            if (number > 0 && number < 10)
+            {
+                return oneDigit[number];
+            }
+
+            else if (number > 10 && number < 20)
+            {
+
+                return twoDigitTillTwenty[number];
+            }
+            else if (number >= 20 && number < 100)
+            {
+
+                int unitsPlace = number / 10;
+                int tensPlace = number % 10;
+
+                if (tensPlace == 0)
+                {
+                    return twoDigitTillNinetyNine[unitsPlace];
+                }
+                else
+                {
+                    return twoDigitTillNinetyNine[unitsPlace] + "-" + oneDigit[tensPlace];
+                }
+            }
+            else if (number >= 100 && number < 1000)
+            {
+                int unitsPlaceOne = number / 100;
+                int tensPlaceOne = number % 100;
+
+                var hundredsWord = oneDigit[unitsPlaceOne] + " Hundred";
+                var otherThanhundred = SpellOutNumber(tensPlaceOne);
+
+                if (tensPlaceOne == 0)
+                {
+                    return hundredsWord;
+                }
+                else
+                {
+                    return hundredsWord + " " + otherThanhundred;
+                }
+
+
+            }
+            else if (number >= 1000 && number < 9999)
+            {
+                int unitsPlaceTwo = number / 1000;
+                int tensPlaceTwo = number % 1000;
+
+                var thousandWordOne = oneDigit[unitsPlaceTwo] + " Thousand";
+                var otherThanThousand = SpellOutNumber(tensPlaceTwo);
+
+                if (tensPlaceTwo == 0)
+                {
+                    return thousandWordOne;
+                }
+                else
+                {
+                    return thousandWordOne + " " + otherThanThousand;
+                }
+
+            }
+            else
+            {
+                 throw new ArgumentOutOfRangeException("Number should be between 0 and 9999");
+            }
+        }
+            
+
+
+    }
+
+   
+}
+    
