@@ -1,0 +1,15 @@
+C:\Users\pavan\source\repos\week2-Day7\Removing stars\bin\Debug\net6.0\Removing stars.exe
+C:\Users\pavan\source\repos\week2-Day7\Removing stars\bin\Debug\net6.0\Removing stars.deps.json
+C:\Users\pavan\source\repos\week2-Day7\Removing stars\bin\Debug\net6.0\Removing stars.runtimeconfig.json
+C:\Users\pavan\source\repos\week2-Day7\Removing stars\bin\Debug\net6.0\Removing stars.dll
+C:\Users\pavan\source\repos\week2-Day7\Removing stars\bin\Debug\net6.0\Removing stars.pdb
+C:\Users\pavan\source\repos\week2-Day7\Removing stars\obj\Debug\net6.0\Removing stars.csproj.AssemblyReference.cache
+C:\Users\pavan\source\repos\week2-Day7\Removing stars\obj\Debug\net6.0\Removing stars.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavan\source\repos\week2-Day7\Removing stars\obj\Debug\net6.0\Removing stars.AssemblyInfoInputs.cache
+C:\Users\pavan\source\repos\week2-Day7\Removing stars\obj\Debug\net6.0\Removing stars.AssemblyInfo.cs
+C:\Users\pavan\source\repos\week2-Day7\Removing stars\obj\Debug\net6.0\Removing stars.csproj.CoreCompileInputs.cache
+C:\Users\pavan\source\repos\week2-Day7\Removing stars\obj\Debug\net6.0\Removing stars.dll
+C:\Users\pavan\source\repos\week2-Day7\Removing stars\obj\Debug\net6.0\refint\Removing stars.dll
+C:\Users\pavan\source\repos\week2-Day7\Removing stars\obj\Debug\net6.0\Removing stars.pdb
+C:\Users\pavan\source\repos\week2-Day7\Removing stars\obj\Debug\net6.0\Removing stars.genruntimeconfig.cache
+C:\Users\pavan\source\repos\week2-Day7\Removing stars\obj\Debug\net6.0\ref\Removing stars.dll
