@@ -1,0 +1,174 @@
+using Domain;
+using static Domain.RockPaperScissors;
+
+namespace Rock_Scissors_Paper
+{
+    public class RockPaperScissorsTests
+    {
+        [Fact]
+        public void RockBeatsScissors()
+        {
+            RockPaperScissors game = new RockPaperScissors("Pavan");
+            Assert.Equal("You Win!", game.Play(RockPaperScissors.Move.Rock));
+        }
+
+        [Fact]
+        public void ScissorsLosesToRock()
+        {
+            RockPaperScissors game = new RockPaperScissors("Pavan");
+            Assert.Equal("Computer Wins!", game.Play(Move.Scissors));
+        }
+
+        [Fact]
+        public void ScissorsBeatPaper()
+        {
+            RockPaperScissors game = new RockPaperScissors("Pavan");
+            Assert.Equal("You Win!", game.Play(Move.Scissors));
+        }
+
+        [Fact]
+        public void PaperLosesToScissors()
+        {
+            RockPaperScissors game = new RockPaperScissors("Pavan");
+            Assert.Equal("Computer Wins!", game.Play(Move.Paper));
+        }
+
+        [Fact]
+        public void PaperBeatsRock()
+        {
+            RockPaperScissors game = new RockPaperScissors("Pavan");
+            Assert.Equal("You Win!", game.Play(Move.Paper));
+        }
+
+        [Fact]
+        public void RockLosesToPaper()
+        {
+            RockPaperScissors game = new RockPaperScissors("Pavan");
+            Assert.Equal("Computer Wins!", game.Play(Move.Rock));
+        }
+
+        [Fact]
+        public void Tie()
+        {
+            RockPaperScissors game = new RockPaperScissors("Pavan");
+            Assert.Equal("Tie", game.Play(Move.Rock));
+            //Assert.Equal("Tie", game.Play(Move.Paper));
+            //Assert.Equal("Tie", game.Play(Move.Scissors));
+        }
+
+        [Fact]
+        public void ScoreIncreasesOnWin()
+        {
+            RockPaperScissors game = new RockPaperScissors("Pavan");
+            game.Play(Move.Rock);
+            Assert.Equal(1, game.Score);
+        }
+
+        [Fact]
+        public void ScoreDecreasesOnLoss()
+        {
+            RockPaperScissors game = new RockPaperScissors("Pavan");
+            game.Play(Move.Paper);
+            Assert.Equal(-1, game.Score);
+        }
+
+        [Fact]
+        public void HighestScoreUpdate()
+        {
+            RockPaperScissors game = new RockPaperScissors("Pavan");
+            game.Play(Move.Rock);
+            game.Play(Move.Rock);
+            game.Play(Move.Rock);
+            Assert.Equal(3, game.Score);
+            Assert.Equal(3, game.HighestScore);
+        }
+
+        [Fact]
+        public void InvalidMove()
+        {
+            RockPaperScissors game = new RockPaperScissors("Pavan");
+            Assert.Throws<ArgumentException>(() => game.Play((Move)4));
+        }
+    }
+}
+
+
+//Domain
+namespace Domain
+{
+    public class RockPaperScissors
+    {
+
+        private string playerName;
+        private int highestScore = 0;
+
+        public  enum Move
+        {
+            Rock,
+            Paper,
+            Scissors
+        }
+
+        public RockPaperScissors(string playerName)
+        {
+            this.playerName = playerName;
+        }
+
+        public string Play(Move playerMove)
+        {
+            
+            Random random = new Random();
+            Move computerMove = (Move)random.Next(3);
+
+           
+            string result = DetermineResult(playerMove, computerMove);
+
+        
+            if (result == "You Win!" && Score > highestScore)
+            {
+                highestScore = Score;
+            }
+
+            return result;
+        }
+
+        private string DetermineResult(Move playerMove, Move computerMove)
+        {
+
+            if (playerMove != Move.Rock && playerMove != Move.Paper && playerMove != Move.Scissors)
+            {
+                throw new ArgumentException("Invalid move. You must choose Rock, Paper, or Scissors.");
+            }
+
+            if (playerMove == computerMove)
+            {
+                return "Tie";
+            }
+            else if ((playerMove == Move.Rock && computerMove == Move.Scissors) ||
+                     (playerMove == Move.Paper && computerMove == Move.Rock) ||
+                     (playerMove == Move.Scissors && computerMove == Move.Paper))
+            {
+                Score++;
+                return "You Win!";
+            }
+            else
+            {
+                Score--;
+                return "Computer Wins!";
+            }
+        }
+
+        public int Score { get; set; } = 0;
+
+        public int HighestScore
+        {
+            get { return highestScore; }
+        }
+
+        public string PlayerName
+        {
+            get { return playerName; }
+        }
+
+    }
+}
