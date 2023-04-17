@@ -1,0 +1,15 @@
+C:\Users\pavan\source\repos\week1-day5\Generic Collections Like list\obj\Debug\net6.0\Generic Collections Like list loop.csproj.AssemblyReference.cache
+C:\Users\pavan\source\repos\week1-day5\Generic Collections Like list\obj\Debug\net6.0\Generic Collections Like list loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pavan\source\repos\week1-day5\Generic Collections Like list\obj\Debug\net6.0\Generic Collections Like list loop.AssemblyInfoInputs.cache
+C:\Users\pavan\source\repos\week1-day5\Generic Collections Like list\obj\Debug\net6.0\Generic Collections Like list loop.AssemblyInfo.cs
+C:\Users\pavan\source\repos\week1-day5\Generic Collections Like list\obj\Debug\net6.0\Generic Collections Like list loop.csproj.CoreCompileInputs.cache
+C:\Users\pavan\source\repos\week1-day5\Generic Collections Like list\bin\Debug\net6.0\Generic Collections Like list loop.exe
+C:\Users\pavan\source\repos\week1-day5\Generic Collections Like list\bin\Debug\net6.0\Generic Collections Like list loop.deps.json
+C:\Users\pavan\source\repos\week1-day5\Generic Collections Like list\bin\Debug\net6.0\Generic Collections Like list loop.runtimeconfig.json
+C:\Users\pavan\source\repos\week1-day5\Generic Collections Like list\bin\Debug\net6.0\Generic Collections Like list loop.dll
+C:\Users\pavan\source\repos\week1-day5\Generic Collections Like list\bin\Debug\net6.0\Generic Collections Like list loop.pdb
+C:\Users\pavan\source\repos\week1-day5\Generic Collections Like list\obj\Debug\net6.0\Generic Collections Like list loop.dll
+C:\Users\pavan\source\repos\week1-day5\Generic Collections Like list\obj\Debug\net6.0\refint\Generic Collections Like list loop.dll
+C:\Users\pavan\source\repos\week1-day5\Generic Collections Like list\obj\Debug\net6.0\Generic Collections Like list loop.pdb
+C:\Users\pavan\source\repos\week1-day5\Generic Collections Like list\obj\Debug\net6.0\Generic Collections Like list loop.genruntimeconfig.cache
+C:\Users\pavan\source\repos\week1-day5\Generic Collections Like list\obj\Debug\net6.0\ref\Generic Collections Like list loop.dll
