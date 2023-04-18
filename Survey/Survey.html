@@ -1,0 +1,96 @@
+<html>
+<head>
+    <link rel="Stylesheet" href="SurveyCSS.css">
+	<title>Survey</title>
+</head>
+<body background="C:\Users\pavan\OneDrive\Desktop\HTML-CSS-JS\background Survey.jpg">
+	<h1>Introduction About Survey</h1>
+	<i>
+	<ul>
+	   <li>Dear Participant,We are conducting a survey to gather information about the preferences and
+	   characteristics of individuals in our community.</li><br>
+	   <li>The information gathered will help us understand  interests of our community members, and enable us to improve our
+	   services and programs.</li><br>
+	   <li>This survey is anonymous and all information will be kept confidential.The survey will take 
+	   approximately 5-10 minutes to complete.</li><br>
+	   <li>Your participation is voluntary, and you may choose to skip any questions that you do not wish to answer.
+	   We would appreciate your participation<br> in this survey, as your feedback is important to us.
+	   <strong>"Thank you for your time and support."</strong></li><br>
+    <strong>
+	</i>
+	   
+	<form>
+		<label for="name">Name:</label>
+		<input type="text" id="name" name="name"><br>
+
+		<label for="phone">Phone number:</label>
+		<input type="tel" id="phone" name="phone"><br>
+
+		<label for="email">Email:</label>
+		<input type="email" id="email" name="email"><br>
+
+		<label for="gender">Gender:</label>
+		<select id="gender" name="gender">
+			<option value="male">Male</option>
+			<option value="female">Female</option>
+			<option value="other">Other</option>
+		</select><br>
+
+		<label for="country">Country:</label>
+		<input type="text" id="country" name="country"><br>
+
+		<label for="profession">Profession:</label>
+		<select id="profession" name="profession">
+			<option value="student">Student</option>
+			<option value="engineer">Engineer</option>
+			<option value="advocate">Advocate</option>
+			<option value="doctor">Doctor</option>
+			<option value="other">Other</option>
+		</select><br><br>
+
+		<label for="food-choice">Food choice:</label>
+		
+		<input type="radio" id="veg" name="food-choice" value="veg">
+		<label for="veg">Veg</label>
+
+		<input type="radio" id="non-veg" name="food-choice" value="non-veg">
+		<label for="non-veg">Non-veg</label><br>
+		
+        <label for="favorite-food">Favorite food:</label>
+		<input type="text" id="favorite-food" name="favorite-food"><br><br>
+
+		<label for="programming-languages">Programming languages you know:</label>
+		<input type="checkbox" id="python" name="programming-languages[]" value="python">
+		<label for="python">Python</label>
+
+		<input type="checkbox" id="java" name="programming-languages[]" value="java">
+		<label for="java">Java</label>
+
+		<input type="checkbox" id="javascript" name="programming-languages[]" value="javascript">
+		<label for="javascript">JavaScript</label><br>
+
+		<label for="proficiency">Proficiency at each language you select:</label>
+		<select id="python-proficiency" name="python-proficiency" aria-placeholder="python-proficiency">
+			<option value="beginner">Beginner</option>
+			<option value="intermediate">Intermediate</option>
+			<option value="advanced">Advanced</option>
+		</select>
+
+		<select id="java-proficiency" name="java-proficiency">
+			<option value="beginner">Beginner</option>
+			<option value="intermediate">Intermediate</option>
+			<option value="advanced">Advanced</option>
+		</select>
+
+		<select id="javascript-proficiency" name="javascript-proficiency">
+			<option value="beginner">Beginner</option>
+			<option value="intermediate">Intermediate</option>
+            <option value="advanced">Advanced</option>
+	</select><br>
+
+	<label for="hobbies">Hobbies:</label>
+	<textarea id="hobbies" name="hobbies"></textarea><br>
+
+	<input type="submit" value="Submit">
+</form>
+	</strong>
