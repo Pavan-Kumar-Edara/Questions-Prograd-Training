@@ -1,0 +1,73 @@
+#Square {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+    position: relative;
+    animation-name: square;
+    animation-duration: 4s;
+  }
+  
+@keyframes square {
+    0%   {background-color:red; left:0px; top:0px;}
+    25%  {background-color:yellow; left:200px; top:0px;}
+    50%  {background-color:blue; left:200px; top:200px;}
+    75%  {background-color:green; left:0px; top:200px;}
+    100% {background-color:red; left:0px; top:0px;}
+  }
+
+#Circle {
+    background: pink;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    animation-name: circle;
+    animation-duration: 4s;
+    animation-direction: reverse;  
+}
+      
+@keyframes circle {
+        0%   {background-color:red; left:0px; top:0px;}
+        25%  {background-color:yellow; left:200px; top:0px;}
+        50%  {background-color:blue; left:200px; top:200px;}
+        75%  {background-color:green; left:0px; top:200px;}
+        100% {background-color:red; left:0px; top:0px;}
+}
+      
+
+#trapezoid{
+    padding-top:100px;
+    border-bottom: 50px solid blue;
+	border-left: 25px solid transparent;
+	border-right: 25px solid transparent;
+	height: 0;
+	transform:translate(200px,200px);
+    animation-name: trapezoid;
+    animation-duration: 4s;
+	width: 125px;
+}
+
+@keyframes trapezoid{
+    0%   {background-color:red; left:0px; top:0px;}
+    25%  {background-color:yellow; left:200px; top:0px;}
+    50%  {background-color:blue; left:200px; top:200px;}
+    75%  {background-color:green; left:0px; top:200px;}
+    100% {background-color:red; left:0px; top:0px;}
+
+}
+
+#triangle {
+    padding-top:100px;
+     width: 0;
+      height: 0;
+      border: 50px solid transparent;
+      border-top: 0;
+      border-bottom: 100px solid red;
+      animation-name: triangle;
+      animation-duration: 4s;
+    }
+    
+@keyframes triangle {
+      from {background-color: red;}
+      to {background-color: yellow;}
+    }
