@@ -1,0 +1,10 @@
+img {
+    transform: rotate(45deg);
+  }
+
+  .grid-container {
+    columns: 5 150px;
+    column-gap: 20px;
+    width:90%;
+    margin: 0 auto;
+}
