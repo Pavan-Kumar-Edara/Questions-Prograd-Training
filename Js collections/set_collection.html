@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        let setOne=new Set()
+        setOne.add(1);
+        setOne.add(2);
+        setOne.add(3);
+        setOne.add(1);
+        console.log(setOne);
+       
+        if(setOne.has(1)){
+            console.log("Element is present");
+        }
+        console.log(setOne.delete(3));
+        console.log(setOne);
+
+        setOne.forEach(function(v){console.log(v)});
+        console.log(setOne.values());
+    
+    </script>
+</head>
+<body>
+    
+</body>
+</html>

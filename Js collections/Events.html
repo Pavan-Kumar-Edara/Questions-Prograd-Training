@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+    <button id="btnone" onclick="btnfunc()">CLICK</button>
+
+    <h3>Event Listener</h3>
+    <button id="btn">Button</button><br><br>
+
+    <ul>
+        <li id="good">Good</li>
+        <li id="bad">Bad</li>
+        <li id="excellent">Excellent</li>
+        <li>Average</li>
+    </ul>
+
+    <p id="goodnamed"></p><br>
+    <p id="badnamed"></p><br>
+    <p id="badnamedLast"></p><br>
+    <p id="excellentnamed"></p><br>
+    <p id="excellentprevious"></p>
+    <p id="fortype"></p>
+
+    <p id="type">HI,Hello</p>
+
+    <div>PARA ONE.</div>
+    <div>PARA TWO.</div>
+
+
+   <script>
+
+       function btnfunc(){
+        alert("I am Button");
+       }
+       document.getElementById("btn").addEventListener("click",func)
+       function func(){
+        alert("Good");
+       }
+
+    var goodname=document.getElementById("good").parentNode.nodeName;
+    document.getElementById("goodnamed").innerHTML=goodname;
+    // document.write(goodname);
+
+    var badname=document.getElementById("bad").firstChild.nodeValue;
+    document.getElementById("badnamed").innerHTML=badname;
+
+    var badname=document.getElementById("bad").lastChild.nodeValue;
+    document.getElementById("badnamedLast").innerHTML=badname;
+
+    var excellentname=document.getElementById("excellent").nextSibling.innerHTML;
+    document.getElementById("excellentnamed").innerHTML=excellentname;
+
+    var excellentname=document.getElementById("excellent").previousSibling;
+    document.getElementById("excellentprevious").innerHTML=excellentname;
+
+    var typed=document.getElementById("type").nodeType;
+    document.getElementById("fortype").innerHTML=typed;
+
+    document.querySelector("div").style.backgroundColor = "red";
+
+</script>
+    
+</body>
+</html>

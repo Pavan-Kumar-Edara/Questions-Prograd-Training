@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p id="result"></p>
+    <input type="button" value="Calculate Average" onclick="calculateAverage()">
+
+
+    <script>
+        let map=new Map()
+        map.set("Maths",98);
+        map.set("Social",95);
+        map.set("Science",90);
+        map.set("Hindi",95);
+        map.set("English",100);
+    
+        map.forEach(function(k,v) {console.log(k)});
+        const values = Array.from(map.values())
+        console.log(values);
+
+       function calculateAverage(){
+            let sum=0;
+            let average;
+            for(let i=0;i<values.length;i++){
+                sum+=values[i];
+            }
+            average=sum/values.length;
+            document.getElementById("result").innerHTML = "The average of all subjects  is: " + average;
+        }
+        
+    </script>
+</body>
+</html>
