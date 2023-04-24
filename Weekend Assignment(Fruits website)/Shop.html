@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+   
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Fruit Shop</title>
+   
+    <script
+      src="https://kit.fontawesome.com/9e2213edf0.js"
+      crossorigin="anonymous"
+    ></script>
+
+ 
+    <link rel="stylesheet" href="C:\Users\pavan\OneDrive\Desktop\fruit-shop-website--master\fruit-shop-website--master\ShopCss.css" />
+  </head>
+
+  <body>
+    <main>
+      <header>
+    
+        <p id="welcome">Welcome, select fruits from below list.</p>
+      </header>
+
+    
+      <section class="products">
+        <div class="product-item">
+          <div class="product-img">
+            <img src="C:\Users\pavan\OneDrive\Desktop\fruit-shop-website--master\fruit-shop-website--master\Apple.png" alt="apple" />
+          </div>
+
+          <div class="product-description">
+            <h2 class="product-name"><a href="#">Apple</a></h2>
+
+            <div class="rating">
+              <span>☆</span><span>☆</span><span>☆</span><span>☆</span
+              ><span>☆</span>
+            </div>
+
+            <p id="applePrice">Rs: 10</p>
+            <div class="buttons">
+              <button class="btn-plus" onclick="increaseItem('apple' , 'applePrice')">+</button>
+              <input type="text" id="apple" value="0" />
+              <button class="btn-minus" onclick="decreaseItem('apple' , 'applePrice')">-</button>
+            </div>
+          </div>
+        </div>
+
+        <div class="product-item">
+          <div class="product-img">
+            <img src="C:\Users\pavan\OneDrive\Desktop\fruit-shop-website--master\fruit-shop-website--master\Orange.png" alt="apple" />
+          </div>
+
+          <div class="product-description">
+            <h2 class="product-name"><a href="#">Orange</a></h2>
+
+            <div class="rating">
+              <span>☆</span><span>☆</span><span>☆</span><span>☆</span
+              ><span>☆</span>
+            </div>
+
+            <p id="orangePrice">Rs: 20</p>
+            <div class="buttons">
+              <button class="btn-plus" onclick="increaseItem('orange' , 'orangePrice')">+</button>
+              <input type="text" id="orange" value="0" />
+              <button class="btn-minus" onclick="decreaseItem('orange' , 'orangePrice')">-</button>
+            </div>
+          </div>
+        </div>
+
+        <div class="product-item">
+          <div class="product-img">
+            <img src="C:\Users\pavan\OneDrive\Desktop\fruit-shop-website--master\fruit-shop-website--master\Mango.png" alt="apple" />
+          </div>
+
+          <div class="product-description">
+            <h2 class="product-name"><a href="#">Mango</a></h2>
+
+            <div class="rating">
+              <span>☆</span><span>☆</span><span>☆</span><span>☆</span
+              ><span>☆</span>
+            </div>
+
+            <p id="mangoPrice">Rs: 30</p>
+            <div class="buttons">
+              <button class="btn-plus" onclick="increaseItem('mango' , 'mangoPrice')">+</button>
+              <input type="text" id="mango" value="0" />
+              <button class="btn-minus" onclick="decreaseItem('mango' , 'mangoPrice')">-</button>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <section class="user-input">
+        <div class="user-amount">
+          <h1>Enter Your Amount:</h1>
+          <div class="amount">
+            <input id="userAmount" type="text" />
+            <button onclick="submitAmount()">Submit</button>
+          </div>
+          <p>Your Amount Rs: <span id="amountEntered"></span></p>
+        </div>
+      </section>
+
+      <div class="amount-details">
+        <h3>Your Total: Rs <span id="userTotalAmount">0</span></h3>
+        <h3>No: Of Items: <span id="numOfItem">0</span></h3>
+        <h3>Your Balance: Rs <span id="balance">0</span></h3>
+      </div>
+    </main>
+
+   
+    <script src="C:\Users\pavan\OneDrive\Desktop\fruit-shop-website--master\fruit-shop-website--master\script.js"></script>
+  </body>
+</html>
